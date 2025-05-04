@@ -1,4 +1,4 @@
-# wifi_password_extractor
+# wifi password extractor
 Python script that extracts saved Wi-Fi passwords from the system  (for Windows)
 
 ## Features
