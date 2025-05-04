@@ -1,0 +1,13 @@
+
+
+```gitignore
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Output folder for scan results
+output/
+
+# Environment files
+.env
