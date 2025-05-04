@@ -11,7 +11,7 @@ Python script that extracts saved Wi-Fi passwords from the system  (for Windows)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wifi_password_extractor.git
+   git clone https://github.com/fightMMC0lub/wifi_password_extractor.git
    cd wifi_password_extractor
 # Run
   ```bash
